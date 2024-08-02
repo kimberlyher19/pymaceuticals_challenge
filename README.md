@@ -2,7 +2,7 @@
 
 Module 5 Challenge
 
-Using Matplotlib in a real-world situation and dataset.
+Matplotlib using a real-world situation and dataset.
 
 
 In this Pymaceuticals challenge, I referenced a lot of my codes from the class activities 
